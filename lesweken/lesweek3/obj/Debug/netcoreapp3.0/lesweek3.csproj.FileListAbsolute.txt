@@ -1,0 +1,11 @@
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/bin/Debug/netcoreapp3.0/lesweek3.deps.json
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/bin/Debug/netcoreapp3.0/lesweek3.runtimeconfig.json
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/bin/Debug/netcoreapp3.0/lesweek3.runtimeconfig.dev.json
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/bin/Debug/netcoreapp3.0/lesweek3.dll
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/bin/Debug/netcoreapp3.0/lesweek3.pdb
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/obj/Debug/netcoreapp3.0/lesweek3.csprojAssemblyReference.cache
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/obj/Debug/netcoreapp3.0/lesweek3.csproj.CoreCompileInputs.cache
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/obj/Debug/netcoreapp3.0/lesweek3.AssemblyInfoInputs.cache
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/obj/Debug/netcoreapp3.0/lesweek3.AssemblyInfo.cs
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/obj/Debug/netcoreapp3.0/lesweek3.dll
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/obj/Debug/netcoreapp3.0/lesweek3.pdb
