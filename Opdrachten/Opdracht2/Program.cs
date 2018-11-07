@@ -4,16 +4,17 @@ namespace Opdracht2
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            // Oefening 2
-            int faculteit(int getal){
+         public static int faculteit(int getal){
                 int resultaat = 1;
                 for(int i=1;i<=getal;i++){
                     resultaat*= i;
                 }
                 return resultaat;
             }
+        static void Main(string[] args)
+        {
+            // Oefening 2
+            
 
             string n = "";
             int a = 0;
