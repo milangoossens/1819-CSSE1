@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/lesweken/lesweek3/lesweek3.csproj",
+  "TargetFramework": "netcoreapp3.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

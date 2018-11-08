@@ -1,0 +1,11 @@
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/obj/Debug/netcoreapp3.0/Opdracht3.csprojAssemblyReference.cache
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/obj/Debug/netcoreapp3.0/Opdracht3.csproj.CoreCompileInputs.cache
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/obj/Debug/netcoreapp3.0/Opdracht3.AssemblyInfoInputs.cache
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/obj/Debug/netcoreapp3.0/Opdracht3.AssemblyInfo.cs
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/bin/Debug/netcoreapp3.0/Opdracht3.deps.json
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/bin/Debug/netcoreapp3.0/Opdracht3.runtimeconfig.json
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/bin/Debug/netcoreapp3.0/Opdracht3.runtimeconfig.dev.json
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/bin/Debug/netcoreapp3.0/Opdracht3.dll
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/bin/Debug/netcoreapp3.0/Opdracht3.pdb
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/obj/Debug/netcoreapp3.0/Opdracht3.dll
+/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht3/obj/Debug/netcoreapp3.0/Opdracht3.pdb
