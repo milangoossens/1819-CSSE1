@@ -685,11 +685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht5/deel1/Opdracht5.csproj",
-      "projectName": "Opdracht5",
-      "projectPath": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht5/deel1/Opdracht5.csproj",
+      "projectUniqueName": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht6/deel3.2/deel3.2.csproj",
+      "projectName": "deel3.2",
+      "projectPath": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht6/deel3.2/deel3.2.csproj",
       "packagesPath": "/Users/milangoossens/.nuget/packages/",
-      "outputPath": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht5/deel1/obj/",
+      "outputPath": "/Users/milangoossens/Code/gdmgent-1819-CSSE1/Opdrachten/Opdracht6/deel3.2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

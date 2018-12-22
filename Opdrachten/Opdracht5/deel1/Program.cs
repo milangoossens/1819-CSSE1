@@ -60,9 +60,9 @@ namespace Opdracht5
                 Console.WriteLine("Aantal in stock: " + qtyInStock);
             }
 
-            public string getAuthorname(){
+            /* public string getAuthorname(){
                 return author;
-            }
+            }*/
         }
     
     
